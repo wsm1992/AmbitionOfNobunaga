@@ -1,6 +1,9 @@
 # AmbitionOfNobunaga
 Recreating the game of AmbitionOfNobunaga in Warcraft 3 custom map with Unreal Engine 4.
 
+## 信長資料站
+https://wsm1992.github.io/AmbitionOfNobunaga/data_from_web/11.2b/sky.geocities.jp/icearbaby/index.html
+
 ## 遊戲製作實況記錄
 [實況記錄](https://www.youtube.com/playlist?list=PLEUfJUmu5y9smcTQNCjh-d-SqHjMiIx1j)
 
@@ -8,7 +11,7 @@ Recreating the game of AmbitionOfNobunaga in Warcraft 3 custom map with Unreal E
 http://www.twitch.tv/damody
 
 ## 首頁
-[http://damody.github.io/AmbitionOfNobunaga/](http://damody.github.io/AmbitionOfNobunaga/)
+[http://wsm1992.github.io/AmbitionOfNobunaga/](http://wsm1992.github.io/AmbitionOfNobunaga/)
 
 ## 筆記
 [https://hackpad.com/ue4-AmbitionOfNobunaga-vcmVWNIyTXG](https://hackpad.com/ue4-AmbitionOfNobunaga-vcmVWNIyTXG)
